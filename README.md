@@ -3,6 +3,7 @@ Descubra qual o valor do seu IMC e um pouco mais sobre sua Saúde!
 
 
 import java.util.Scanner;
+
 class Main {
 
     public static void main(String[] args) {
